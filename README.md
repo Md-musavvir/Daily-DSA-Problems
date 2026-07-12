@@ -7,13 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
