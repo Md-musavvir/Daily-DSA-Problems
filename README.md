@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
