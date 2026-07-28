@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Stack
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
