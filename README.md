@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0948-bag-of-tokens) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
