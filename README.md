@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
