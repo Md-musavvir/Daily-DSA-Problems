@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0948-bag-of-tokens) |
+| [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
