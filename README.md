@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0948-bag-of-tokens) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
