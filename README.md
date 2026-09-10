@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3903-smallest-stable-index-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
