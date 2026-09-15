@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2079-watering-plants) |
 | [2574-left-and-right-sum-differences](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0877-stone-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
