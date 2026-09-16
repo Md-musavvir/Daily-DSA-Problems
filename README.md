@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2485-find-the-pivot-integer](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/0877-stone-game) |
+| [2485-find-the-pivot-integer](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Md-musavvir/Daily-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
